@@ -21,7 +21,7 @@
       "age": 22,
       "gender": "Female",
       "vitalSigns": {
-        "heartRate": [71, 110, 95, 82],
+        "heartRate": [71, 110, 82, 95],
         "bloodPressure": [
           {"systolic": 115, "diastolic": 75},
           {"systolic": 117, "diastolic": 78},
