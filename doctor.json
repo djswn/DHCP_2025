@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "김의사",
+    "name": "김사부",
     "specialty": "내과 전문의",
     "rating": 4.8,
     "reviews": 132,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "이진찰",
+    "name": "이익준",
     "specialty": "내과 전문의",
     "rating": 4.1,
     "reviews": 109,
