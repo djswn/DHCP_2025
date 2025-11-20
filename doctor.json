@@ -1,27 +1,47 @@
-[ 
+[
   {
     "id": 1,
-    "name": "김사부",
-    "description": "최선을 다하여 임하겠습니다!"
+    "name": "김의사",
+    "specialty": "내과 전문의",
+    "rating": 4.8,
+    "reviews": 132,
+    "description": "친절하게 잘 안내해드리겠습니다 :)",
+    "image": "doctor1.png"
   },
   {
     "id": 2,
-    "name": "이익준",
-    "description": "친절한 상담 도와드립니다 :)"
+    "name": "이진찰",
+    "specialty": "내과 전문의",
+    "rating": 4.1,
+    "reviews": 109,
+    "description": "최선을 다 해드리겠습니다!!!",
+    "image": "doctor2.png"
   },
   {
     "id": 3,
     "name": "박의사",
-    "description": "안녕하세요."
+    "specialty": "정신과",
+    "rating": 3.7,
+    "reviews": 87,
+    "description": "안녕하세요.",
+    "image": "doctor3.png"
   },
   {
     "id": 4,
     "name": "최피부",
-    "description": "피부과 상담"
+    "specialty": "피부과",
+    "rating": 3.2,
+    "reviews": 57,
+    "description": "피부과 상담",
+    "image": "doctor4.png"
   },
   {
     "id": 5,
     "name": "나돌팔",
-    "description": "믿어주시면 됩니다."
+    "specialty": "내과 전문의",
+    "rating": 2.4,
+    "reviews": 11,
+    "description": "믿어주시면 됩니다.",
+    "image": "doctor5.png"
   }
  ]
