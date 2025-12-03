@@ -1,14 +1,34 @@
 {
-  "male": {
-    "20": 120,
-    "30": 122,
-    "40": 125,
-    "50": 130
-  },
-  "female": {
-    "20": 115,
-    "30": 118,
-    "40": 120,
-    "50": 125
-  }
+  "categories": [
+    {
+      "name": "정상혈압",
+      "systolic": { "min": 0, "max": 119 },
+      "diastolic": { "min": 0, "max": 79 }
+    },
+    {
+      "name": "주의혈압",
+      "systolic": { "min": 120, "max": 129 },
+      "diastolic": { "min": 0, "max": 79 }
+    },
+    {
+      "name": "고혈압전단계",
+      "systolic": { "min": 130, "max": 139 },
+      "diastolic": { "min": 80, "max": 89 }
+    },
+    {
+      "name": "고혈압 1기",
+      "systolic": { "min": 140, "max": 159 },
+      "diastolic": { "min": 90, "max": 99 }
+    },
+    {
+      "name": "고혈압 2기",
+      "systolic": { "min": 160, "max": 999 },
+      "diastolic": { "min": 100, "max": 999 }
+    },
+    {
+      "name": "수축기단독고혈압",
+      "systolic": { "min": 140, "max": 999 },
+      "diastolic": { "min": 0, "max": 89 }
+    }
+  ]
 }
